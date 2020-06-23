@@ -8,7 +8,10 @@
 *.ctxt
 
 # Mobile Tools for Java (J2ME)
-.mtj.tmp/
+.mtj
+.tmp/
+.idea/
+design-pattern.iml
 
 # Package Files #
 *.jar
